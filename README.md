@@ -21,9 +21,8 @@ let iron-man7 = {
 }
 ```
 
-<!--
 ![](https://komarev.com/ghpvc/?username=iron-man7&color=blueviolet&style=for-the-badge)
---!>
+
 
 
 <!--
