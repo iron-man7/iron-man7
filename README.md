@@ -18,8 +18,18 @@ let iron-man7 = {
   tools: [Node.js, Docker, Git ],
   domains: [AI, DL, WLAN, Linux ENV]
   experience: {
-      Capgemini: "AI/ML lead",
-      duration: 2016-2022,
+      Org: {
+        Capgemini: "AI/ML lead",
+        duration: 2016-2022,
+      },
+      Org: {
+        Blooms Consultancy: "AI Lead",
+        duration: 2022-2024,
+      },
+      Org: {
+        Tarento Technologies: "AI Lead",
+        duration: 2024 - NOW,
+      }
   },
   education: "B.E Computer Science & Engineering"
 }
